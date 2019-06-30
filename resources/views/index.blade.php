@@ -3,10 +3,10 @@
 <head>
 <meta  charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Selena. - Minimal Portfolio Template</title> 
+<title>Пригласительный сайт</title> 
 
 <!-- Favicons -->
-<link rel="shortcut icon" href="favicon.png">
+<link rel="shortcut icon" href="img/mouse.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
@@ -45,7 +45,7 @@
               <a href="/">Домой</a>
             </li>
             <li class="menu-item">
-              <a href="/slider">Галерея</a>
+              <a href="/gallery">Галерея</a>
             </li>
           </ul>
         </div>
