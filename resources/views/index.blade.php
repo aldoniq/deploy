@@ -55,7 +55,7 @@
     <header class="visible-md visible-lg navbar-left">
       <div class="brand-panel">
         <a href="/" class="brand js-target-scroll">
-        Askar&Altinay
+          Askar&Altinay
         </a>
       </div>
 
@@ -80,7 +80,7 @@
     <main class="main main-full main-bg jarallax" data-jarallax='{"speed": 0.6}'>
       <div class="container-fluid">
         <div class="opener">
-          <h1><i>Askar Altinay</i></h1>
+          <h1><i></i></h1>
           <div class="no-countdown">
             <script src="//megatimer.ru/get/2610ec64008de3ff76dad6b65f9d66a0.js"></script>
           </div>
