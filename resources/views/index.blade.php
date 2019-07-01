@@ -22,7 +22,7 @@
 
     <header class="navbar navbar-mobile md-hide">
       <a href="#" class="brand js-target-scroll">
-        Askar&Altinay
+        Askar&Altynai
       </a>
 
       <!-- Navbar Collapse -->
@@ -55,7 +55,7 @@
     <header class="visible-md visible-lg navbar-left">
       <div class="brand-panel">
         <a href="/" class="brand js-target-scroll">
-          Askar&Altinay
+          Askar&Altynai
         </a>
       </div>
 
@@ -129,7 +129,7 @@
           <div class="row-base row">
             <div class="brand-info col-base col-md-6 col-lg-4">
               <a href="#top" class="brand js-target-scroll">
-                Askar&Altinay
+                Askar&Altynai
               </a>
               <p>Ждем вас на свадьбе</p>
             </div>

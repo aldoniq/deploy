@@ -4,7 +4,7 @@
 @section('content')
 
 <div class="container gallery-container">
-        <h1>Askar&Altinay Gallery</h1>
+        <h1>Askar&Altynai Gallery</h1>
         <p class="page-description text-center">17.08.2019</p>
         <!-- correct -->
     <div class="col-md-12 text-center"> 
