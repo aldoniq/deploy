@@ -14,7 +14,7 @@
 <!-- Styles -->
 <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Montserrat:400,500,700|Playfair+Display:400,400i,700,700i&amp;subset=cyrillic" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet" media="screen">
-{{-- <script src="https://maps.api.2gis.ru/2.0/loader.js?pkg=full"></script> --}}
+<script src="https://maps.api.2gis.ru/2.0/loader.js?pkg=full"></script>
 </head>
 <body>
 

@@ -6,7 +6,7 @@
     
     <!-- Home -->
     
-    <main class="main main-full main-bg jarallax" data-jarallax='{"speed": 0.6}'>
+    <main class="main main-full main-bg2 jarallax" data-jarallax='{"speed": 0.6}'>
       <div class="container-fluid">
         <div class="opener">
           <h1><i></i></h1>

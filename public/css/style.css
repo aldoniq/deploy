@@ -1244,10 +1244,9 @@ main h1{
   background-size:cover;
 }
 
-.main-bg-3{
-  background:url(../img/bg/bg-freelance3.jpg) 50% 0 no-repeat;
+.main-bg3{
+  background:url(../images/10.jpg) 50% 0 no-repeat;
   background-size:cover;
-  
 }
 
 .mouse-helper{
