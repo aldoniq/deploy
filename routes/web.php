@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('/gallery', function () {
     return view('gallery');
 });
+
+Route::get('/wishes', function () {
+    return view('wishes');
+});

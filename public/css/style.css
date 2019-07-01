@@ -370,7 +370,7 @@ textarea.input-round{
   top:50%;
   left: 0;
   margin: 0 0 0 1.1em;
-  -webkit-transform: translateY(-50%)
+  -webkit-transform: translateY(-50%);
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
 
@@ -1240,7 +1240,7 @@ main h1{
 }
 
 .main-bg2{
-  background:url(../img/bg/bg-freelance2.jpg) 50% 0 no-repeat;
+  background:url(../images/8.jpg) 65% 0 no-repeat;
   background-size:cover;
 }
 
@@ -1567,7 +1567,7 @@ main h1{
   opacity: 0;
   width: 100%;
   padding: 0 2em;
-  -webkit-transform:translateY(-50%));
+  -webkit-transform:translateY(-50%);
   -ms-transform:translateY(-50%);
   transform:translateY(-50%);
   -webkit-transition: all  0.3s ease-in;
@@ -2202,7 +2202,13 @@ main h1{
 }
 
 @media only screen and (max-width: 965px) {
-  .no-map {
+  .desk-map {
+    display:none;
+  }
+}
+
+@media only screen and (min-width: 964px) {
+  .mob-map {
     display:none;
   }
 }
