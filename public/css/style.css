@@ -1235,17 +1235,17 @@ main h1{
 }
 
 .main-bg{
-  background:url(../images/3.jpg) 50% 0 no-repeat;
+  background:url(../img/3.jpg) 50% 0 no-repeat;
   background-size:cover;
 }
 
 .main-bg2{
-  background:url(../images/8.jpg) 50% 0 no-repeat !important;
+  background:url(../img/8.jpg) 50% 0 no-repeat !important;
   background-size:cover;
 }
 
 .main-bg3{
-  background:url(../images/10.jpg) 50% 0 no-repeat;
+  background:url(../img/10.jpg) 50% 0 no-repeat;
   background-size:cover;
 }
 
