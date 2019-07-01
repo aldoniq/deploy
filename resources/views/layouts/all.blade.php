@@ -43,7 +43,7 @@
                   <nav class="nav-mobile">
                     <div class="collapse navbar-collapse" id="nav-collapse"> 
                       <ul class="nav-mobile-list">
-                        <li class="active menu-item">
+                        <li class="menu-item">
                           <a href="/">Домой</a>
                         </li>
                         <li class="menu-item">
