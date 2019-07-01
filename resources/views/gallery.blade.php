@@ -64,6 +64,21 @@
                             <img src="../images/9.jpg" alt="9">
                         </a>
                 </div>
+                <div class="col-sm-12 col-md-12">
+                <div id="mc-container"></div>
+                    <script type="text/javascript">
+                    cackle_widget = window.cackle_widget || [];
+                    cackle_widget.push({widget: 'Comment', id: 66957});
+                    (function() {
+                        var mc = document.createElement('script');
+                        mc.type = 'text/javascript';
+                        mc.async = true;
+                        mc.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cackle.me/widget.js';
+                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
+                    })();
+                    </script>
+                <a id="mc-link" href="http://cackle.me">Комментарии для сайта <b style="color:#4FA3DA">Cackl</b><b style="color:#F65077">e</b></a>
+            </div>
         </div>
     </div>
 

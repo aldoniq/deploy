@@ -5,7 +5,9 @@
 	<title>Пригласительный сайт</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="fb:app_id" content="100005895993260"/>
+	
 <!--===============================================================================================-->	
 	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
 <!--===============================================================================================-->
@@ -32,7 +34,6 @@
 	<link rel="stylesheet" href="css/gallery-grid.css">
 	
 <!--===============================================================================================-->
-
 </head>
 <body>
 
@@ -59,5 +60,6 @@
 <script src="js/imagesloaded.pkgd.js"></script>
 <script src="js/interface.js"></script> 
 <!--===============================================================================================-->
+
 </body>
 </html>
