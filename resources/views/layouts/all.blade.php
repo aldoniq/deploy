@@ -95,7 +95,7 @@
                               DG.then(function () {
                                   map = DG.map('map', {
                                       center: [51.131646256713196, 71.42922163009645],
-                                      zoom: 13
+                                      zoom: 15.6
                                   });
                   
                                   DG.marker(
